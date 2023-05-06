@@ -1,0 +1,11 @@
+body {
+    background-image: url(../bg.jpg);
+}
+
+.welcome-header img {
+    width: 300px;
+}
+
+.welcome-header h1 {
+    display: none;
+}

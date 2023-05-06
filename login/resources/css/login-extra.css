@@ -1,0 +1,8 @@
+.login-pf body {
+    background-image: url("../img/keycloak-bg.jpg");
+}
+
+div.kc-logo-text {
+    height: 150px;
+    width: 439px;
+}
